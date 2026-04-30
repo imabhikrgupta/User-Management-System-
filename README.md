@@ -1,9 +1,8 @@
-# User-Management-System-
-
+# User-Management-System
 
 ## 📌 Overview
 A Java Web Application implementing **CRUD (Create, Read, Update, Delete)** operations for user management.  
-Built with **Servlets, JSP, JDBC, and MySQL**, this project demonstrates backend development, database integration, and dynamic data rendering.
+Built with **Servlets, JSP, JDBC, and Oracle Database**, this project demonstrates backend development, database integration, and dynamic data rendering.
 
 ---
 
@@ -19,7 +18,7 @@ Built with **Servlets, JSP, JDBC, and MySQL**, this project demonstrates backend
 
 ## 🛠️ Tech Stack
 - **Language:** Java (Servlets, JSP)
-- **Database:** MySQL
+- **Database:** Oracle Database
 - **Frameworks/Tools:** JDBC, HTML, CSS
 - **Server:** Apache Tomcat
 
